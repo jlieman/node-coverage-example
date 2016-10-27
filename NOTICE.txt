@@ -1,0 +1,3 @@
+Client application based on the following code which is released under the MIT license:
+
+https://github.com/angular/angular.io/tree/master/public/docs/_examples/homepage-todo/ts/app
